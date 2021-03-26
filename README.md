@@ -8,6 +8,6 @@ S3 → Buckets → Create Bucket
 
 Bucket Name: koalacampaign922 \
 Naming Rules: **Globally Unique**, all lowercase letters, numbers, dots(.), and hyphens(-), no underscores, \
-start with a lowercase letter or number, can't be IP Formatted (1.1.1.1)
+start with a lowercase letter or number, can't be IP Formatted (192.168.5.4), can't begin with xn--
 
 Region: 
