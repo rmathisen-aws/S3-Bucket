@@ -14,4 +14,6 @@ Region: us-east-1
 
 Copy settings from existing bucket: \
 If you have any existing buckets, and you want to copy the settings from those buckets, then click "Choose Bucket" to copy these settings.
+![image](https://user-images.githubusercontent.com/80132085/112650660-fdea7c80-8e21-11eb-908d-6c59003c7e94.png)
 
+All Buckets by default are Private.
