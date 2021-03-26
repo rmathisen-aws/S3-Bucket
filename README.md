@@ -10,4 +10,8 @@ Bucket Name: koalacampaign922 \
 Naming Rules: **Globally Unique**, all lowercase letters, numbers, dots(.), and hyphens(-), no underscores, \
 start with a lowercase letter or number, can't be IP Formatted (192.168.5.4), can't begin with xn--
 
-Region: 
+Region: us-east-1 
+
+Copy settings from existing bucket: \
+If you have any existing buckets, and you want to copy the settings from those buckets, then click "Choose Bucket" to copy these settings.
+
