@@ -36,7 +36,7 @@ ARN - uniquely references 1 resource in AWS (resource identifier)
 
 ![image](https://user-images.githubusercontent.com/80132085/112654458-cda4dd00-8e25-11eb-8e99-b4da5b9f135a.png)
 
-Select Bucket → Objects → Upload \
+Select Bucket → Objects → Upload
 
 
 ![image](https://user-images.githubusercontent.com/80132085/112654680-05138980-8e26-11eb-8221-e5a8c362da25.png)
@@ -45,6 +45,15 @@ click Add Files → select any files you want to Upload
 
 ![image](https://user-images.githubusercontent.com/80132085/112654937-4ad05200-8e26-11eb-9fd5-ccbc5a91dc84.png)
 
+We won't be enabling bucket versioning for this lab. This will be covered later on.
+
+![image](https://user-images.githubusercontent.com/80132085/112655733-1610ca80-8e27-11eb-93da-9914df381f6f.png)
+
+Additional Upload Options
+
+Storage Class: Standard (by default)
+
+Upload
 
 
 
