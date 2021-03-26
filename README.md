@@ -32,4 +32,42 @@ Click on the Bucket → Properties \
 ARN - uniquely references 1 resource in AWS (resource identifier)
 
 \
-**Upload Objects to S3 Bucket:** \
+**Upload Objects to S3 Bucket:**
+
+![image](https://user-images.githubusercontent.com/80132085/112654458-cda4dd00-8e25-11eb-8e99-b4da5b9f135a.png)
+
+Select Bucket → Objects → Upload \
+
+
+![image](https://user-images.githubusercontent.com/80132085/112654680-05138980-8e26-11eb-8221-e5a8c362da25.png)
+
+click Add Files → select any files you want to Upload
+
+![image](https://user-images.githubusercontent.com/80132085/112654937-4ad05200-8e26-11eb-9fd5-ccbc5a91dc84.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
