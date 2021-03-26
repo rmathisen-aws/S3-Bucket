@@ -97,8 +97,19 @@ Close that error tab
 To view your file, \
 Object Actions → Open
 
+Notice your URL contains the Authentication! \
+YOU are now accessing this object as yourself with your user permissions. \
+You, as the S3 creator, and the Root User have these permissions.
 
+\
+\
+**Clean Up Time!!**
 
+![image](https://user-images.githubusercontent.com/80132085/112660119-799cf700-8e2b-11eb-9f1f-af5bd4f24e18.png)
+
+Cleaning up is a 2 step Process: \
+Empty the Bucket \
+Delete the Bucket
 
 
 
