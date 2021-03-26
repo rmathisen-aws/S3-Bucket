@@ -58,7 +58,7 @@ Storage Class: Standard (by default)
 Upload
 
 \
-**Creating a Folder:**
+**Create a Folder & Upload Files:**
 
 ![image](https://user-images.githubusercontent.com/80132085/112656614-f4fca980-8e27-11eb-9dc2-2e1a33bc8787.png)
 
@@ -68,13 +68,34 @@ Remember, S3 is a Flat Structure. This doesn't actually create a folder. It crea
 
 Name the Folder → Create Folder
 
+![image](https://user-images.githubusercontent.com/80132085/112657127-781dff80-8e28-11eb-90c3-8d70a4360fe8.png)
 
+This doesn't actually create a folder called "archive". It creates an Object with this name.
 
+![image](https://user-images.githubusercontent.com/80132085/112657574-f37fb100-8e28-11eb-9058-a383352d7fcc.png)
 
+Click archive/ → Upload → Add Files → select files → Upload
 
+\
+**Viewing these Uploaded Files:**
 
+![image](https://user-images.githubusercontent.com/80132085/112658415-c1bb1a00-8e29-11eb-857f-c14476f060a6.png)
 
+![image](https://user-images.githubusercontent.com/80132085/112658951-4d34ab00-8e2a-11eb-9c39-f2431b0ddffe.png)
 
+Click on any of these uploaded files, and open the Object URL in a New Tab. \
+You are presented an "AccessDenied" error. You are trying to access this Object with no Authentication. \
+You are trying to access this as an Unauthenticated User. \
+All S3 Objects & S3 Buckets are Private by default. 
+
+You won't be able to access this object without authenticating to AWS, unless you grant Public access to this object.
+
+Close that error tab
+
+![image](https://user-images.githubusercontent.com/80132085/112659292-9ab11800-8e2a-11eb-90af-953444675a01.png)
+
+To view your file, \
+Object Actions → Open
 
 
 
