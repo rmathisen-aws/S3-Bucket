@@ -4,6 +4,7 @@ With S3, you do not have to choose a region. \
 When you create Buckets within S3, you have to pick the region that the bucket is created in. \
 Because S3 uses a Global Namespace, you don't have to select a region when using the console.
 
+\
 **Create an S3 Bucket:**\
 S3 → Buckets → Create Bucket 
 
