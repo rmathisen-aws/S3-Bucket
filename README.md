@@ -21,6 +21,6 @@ Uncheck "Block all public access" and acknowledge that you accept all responsibi
 
 Create Bucket
 
-**To View the Resource's Amazon Resource Name (ARN):** \
-Click on the Bucket → Properties
-
+**To View the Bucket's Amazon Resource Name (ARN):** \
+Click on the Bucket → Properties \
+Every Resource in AWS have an unique identifier, which is the ARN
