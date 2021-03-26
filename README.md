@@ -57,6 +57,16 @@ Storage Class: Standard (by default)
 
 Upload
 
+\
+**Creating a Folder:**
+
+![image](https://user-images.githubusercontent.com/80132085/112656614-f4fca980-8e27-11eb-9dc2-2e1a33bc8787.png)
+
+Remember, S3 is a Flat Structure. This doesn't actually create a folder. It creates a file, which emulates a folder.
+
+![image](https://user-images.githubusercontent.com/80132085/112656736-11004b00-8e28-11eb-8be5-0455cc1b5c9c.png)
+
+Name the Folder → Create Folder
 
 
 
