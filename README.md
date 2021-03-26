@@ -24,10 +24,12 @@ Uncheck "Block all public access" and acknowledge that you accept all responsibi
 Create Bucket
 
 \
-**To View the Bucket's Amazon Resource Name (ARN):** \
+**To View the Bucket's Amazon Resource Name (ARN):**
+
+![image](https://user-images.githubusercontent.com/80132085/112653438-ccbf7b80-8e24-11eb-8856-f27a3dc8273d.png)
+
 Click on the Bucket → Properties \
 ARN - uniquely references 1 resource in AWS (resource identifier)
-![image](https://user-images.githubusercontent.com/80132085/112653438-ccbf7b80-8e24-11eb-8856-f27a3dc8273d.png)
 
 \
 **Upload Objects to S3 Bucket:** \
