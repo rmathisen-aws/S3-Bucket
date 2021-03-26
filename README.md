@@ -4,6 +4,7 @@ With S3, you do not have to choose a region. \
 When you create Buckets within S3, you have to pick the region that the bucket is created in. \
 Because S3 uses a Global Namespace, you don't have to select a region when using the console.
 
+**Create an S3 Bucket:**\
 S3 → Buckets → Create Bucket 
 
 Bucket Name: koalacampaign922 \
@@ -15,4 +16,8 @@ Region: us-east-1
 Copy settings from existing bucket: \
 If you have any existing buckets, and you want to copy the settings from those buckets, then click "Choose Bucket" to copy these settings.
 
-All Buckets by default are Private.
+All Buckets by default are Private. \
+Uncheck "Block all public access" and acknowledge that you accept all responsibility
+
+Create Bucket
+
