@@ -41,7 +41,9 @@ Select Bucket → Objects → Upload
 
 ![image](https://user-images.githubusercontent.com/80132085/112654680-05138980-8e26-11eb-8221-e5a8c362da25.png)
 
-click Add Files → select any files you want to Upload
+click Add Files → select any files you want to Upload \
+Notice the option to Add Folder. \
+Remember, S3 is a Flat Structure. This doesn't actually create a folder. It creates a file, which emulates a folder.
 
 ![image](https://user-images.githubusercontent.com/80132085/112654937-4ad05200-8e26-11eb-9fd5-ccbc5a91dc84.png)
 
